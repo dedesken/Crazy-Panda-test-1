@@ -1,0 +1,13 @@
+.paginator {
+    display: flex;
+    justify-content: center;
+}
+
+.paginator p {
+    margin: 10px;
+    cursor: pointer;
+}
+
+.paginator--selected_page {
+    color: red
+}
